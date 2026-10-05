@@ -6,7 +6,7 @@ int main()
 {
 	/*int mod = 27 % 10; // = 7  (reviser);
 	cout << mod;*/
-	/*
+	
 			// 1) Catégorie selon l’âge
 			int age = 0;
 			cout << "Machine -> rentrer votre age : " << endl << "Humain -> ";
@@ -27,60 +27,14 @@ int main()
 			{
 				cout << endl << "Machine -> Bebe" << endl << endl;
 			}
-			*/
-
-
-			/*
-						//2) Aire et périmètre d’un terrain de sport
-			int a;
-			int b;
-
-			cout << "Quelle est la longueur du terrain ?" << endl << "->";
-			cin >> a;
-			cout << endl << "Quelle est la largeur ?" << endl << "->";
-			cin >> b;
-
-			cout << "Surface : " << a * b << "m2, perimetre : " << a * 2 + b * 2 << "m." << endl;
-			*/
+			
 
 
 
-			/*				//3) Moyenne de notes
-				float a;
-				float b;
-				float c;
 
-				cout << "note 1 ?" << endl << "-> ";
-				cin >> a;
-				cout << "note 2 ?" << endl << "-> ";
-				cin >> b;
-				cout << "note 3 ?" << endl << "-> ";
-				cin >> c;
+		
 
-
-				float d = a + b + c;
-				cout << "Moyenne : " << d / 3;
-				*/
-
-				/*				//3) Moyenne de notes UP GRADE
-						int number_Note;
-	float note;
-	float everyone_Note =0;
-
-	cout << "entrer le nombre de note " << endl;
-	cin >> number_Note;
-
-	for (int i = 1; i < number_Note + 1; i++)
-	{
-		cout << "entrer la note " << i << endl;
-		cin >> note;
-
-		everyone_Note = everyone_Note + note;
-	}
-
-	float moyene = everyone_Note / number_Note;
-	cout << "voici votre moyenne : " << moyene;
-							*/
+				
 
 
 							/*
