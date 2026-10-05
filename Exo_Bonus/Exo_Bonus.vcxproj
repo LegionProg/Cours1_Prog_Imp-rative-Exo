@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{1eee17f7-99f5-439e-be4b-4ba9d97c6231}</ProjectGuid>
-    <RootNamespace>Exo</RootNamespace>
+    <ProjectGuid>{cc9e695d-30ce-4868-abf4-1fb494782e74}</ProjectGuid>
+    <RootNamespace>ExoBonus</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Exo1</ProjectName>
+    <ProjectName>Exo_Bonus1</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
