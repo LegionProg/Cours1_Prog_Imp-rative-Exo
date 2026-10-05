@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exo7", "Exo7\Exo7.vcxproj",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exo_Bonus1", "Exo_Bonus\Exo_Bonus.vcxproj", "{CC9E695D-30CE-4868-ABF4-1FB494782E74}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exo_Bonus2", "Exo_Bonus2Bis\Exo_Bonus2Bis.vcxproj", "{63851F84-7B0C-4E7C-AB87-2265700B7138}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{CC9E695D-30CE-4868-ABF4-1FB494782E74}.Release|x64.Build.0 = Release|x64
 		{CC9E695D-30CE-4868-ABF4-1FB494782E74}.Release|x86.ActiveCfg = Release|Win32
 		{CC9E695D-30CE-4868-ABF4-1FB494782E74}.Release|x86.Build.0 = Release|Win32
+		{63851F84-7B0C-4E7C-AB87-2265700B7138}.Debug|x64.ActiveCfg = Debug|x64
+		{63851F84-7B0C-4E7C-AB87-2265700B7138}.Debug|x64.Build.0 = Debug|x64
+		{63851F84-7B0C-4E7C-AB87-2265700B7138}.Debug|x86.ActiveCfg = Debug|Win32
+		{63851F84-7B0C-4E7C-AB87-2265700B7138}.Debug|x86.Build.0 = Debug|Win32
+		{63851F84-7B0C-4E7C-AB87-2265700B7138}.Release|x64.ActiveCfg = Release|x64
+		{63851F84-7B0C-4E7C-AB87-2265700B7138}.Release|x64.Build.0 = Release|x64
+		{63851F84-7B0C-4E7C-AB87-2265700B7138}.Release|x86.ActiveCfg = Release|Win32
+		{63851F84-7B0C-4E7C-AB87-2265700B7138}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
