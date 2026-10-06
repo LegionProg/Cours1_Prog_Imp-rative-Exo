@@ -15,7 +15,7 @@ int main()
 
 	cout << "HP actuel ? " << endl << "-> ";
 	cin >> lifeActualy;
-	int printLife = lifeMax / 10;
+	int printLife = lifeMax / 10; 
 	cout << "[";
 	for (int i = 0; i < lifeMax; i = i + printLife)
 	{
