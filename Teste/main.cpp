@@ -12,5 +12,5 @@ int Reponse()
 }
 int main()
 {
-	Hello();
+	
 }
